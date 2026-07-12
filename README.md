@@ -2,11 +2,11 @@
 A rhythm game built in a team of 5 using Unity
 
 If you are here from clicking puttzzle from my resume, you are probably confused but if that is the case, I'm sorry for the detour, I should've double checked that my resume saved.
-
+\
 The Puttzzle repository is here: https://github.com/yooooop/Niagara
-
+\
 The Puttzzle Videos are here: https://www.youtube.com/playlist?list=PLJ3c9V4QL0bA
-
+\
 Once again, sorry for hte detour.
 
 built in unity version 2022.3.8f1
