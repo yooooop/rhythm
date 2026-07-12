@@ -7,8 +7,9 @@ The Puttzzle repository is here: https://github.com/yooooop/Niagara
 \
 The Puttzzle Videos are here: https://www.youtube.com/playlist?list=PLJ3c9V4QL0bA
 \
-Once again, sorry for hte detour.
-
+Once again, sorry for the detour.
+\
+\
 built in unity version 2022.3.8f1
 
 The playable version is available in the root directory in the build folder
