@@ -5,7 +5,7 @@ If you are here from clicking puttzzle from my resume, you are probably confused
 \
 The Puttzzle repository is here: https://github.com/yooooop/Niagara
 \
-The Puttzzle Videos are here: https://www.youtube.com/playlist?list=PLJ3c9V4QL0bA
+The Puttzzle videos are here: https://www.youtube.com/playlist?list=PLJ3c9V4QL0bA
 \
 Once again, sorry for the detour.
 \
